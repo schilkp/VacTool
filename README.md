@@ -3,7 +3,7 @@
 
 A very simple PIC12F1572-based controller for a manual vacuum SMD component pick-and-place pen. 
 
-![PCB Render](https://raw.githubusercontent.com/TheSchilk/VacTool/master/Doc/Render.jpg?token=ABKRIER2L3PX4RSROX6VKC267WQU6)
+![PCB Render](https://raw.githubusercontent.com/TheSchilk/VacTool/master/Doc/Render.jpg)
 
 # Description
 
