@@ -1,0 +1,2 @@
+# Ignore html BOMs in Github language stats
+*.html linguist-detectable=false
