@@ -18,10 +18,6 @@ In between, the pump will run when the solenoid is active, and will keep running
 after the solenoid closes again determined by the potentiometer position. When continously
 placing parts this should allow for a smoother workflow.
 
-# Status
-Controller tested and working. 
-Waiting on parts for full setup.
-
 # Inspiration
 Steve Gardner's (aka SDG Electronics) Vaccum Pick and Place Tool:  
 
